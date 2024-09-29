@@ -1,4 +1,14 @@
 # Byte-compiled / optimized / DLL files
+# Audio
+*.wav
+*.flac
+
+# Audio transcript
+*.txt
+
+#.npy files
+*.npy
+
 __pycache__/
 *.py[cod]
 *$py.class
